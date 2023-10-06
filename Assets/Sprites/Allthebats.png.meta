@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Allthebats_0
+      name: Bat_normal_left_0
       rect:
         serializedVersion: 2
         x: 4
@@ -115,7 +115,7 @@ TextureImporter:
         width: 56
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -128,15 +128,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_1
+      name: Bat_normal_left_1
       rect:
         serializedVersion: 2
-        x: 67
+        x: 68
         y: 333
         width: 57
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -149,7 +149,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_2
+      name: Bat_normal_right_0
       rect:
         serializedVersion: 2
         x: 4
@@ -157,7 +157,7 @@ TextureImporter:
         width: 56
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -170,7 +170,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_3
+      name: Bat_normal_right_1
       rect:
         serializedVersion: 2
         x: 68
@@ -178,7 +178,7 @@ TextureImporter:
         width: 57
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -191,7 +191,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_4
+      name: Bat_scared_left_0
       rect:
         serializedVersion: 2
         x: 4
@@ -199,7 +199,7 @@ TextureImporter:
         width: 56
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -212,7 +212,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_5
+      name: Bat_scared_left_1
       rect:
         serializedVersion: 2
         x: 67
@@ -220,7 +220,7 @@ TextureImporter:
         width: 57
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -233,7 +233,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_6
+      name: Bat_scared_right_0
       rect:
         serializedVersion: 2
         x: 4
@@ -241,7 +241,7 @@ TextureImporter:
         width: 56
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -254,7 +254,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_7
+      name: Bat_scared_right_1
       rect:
         serializedVersion: 2
         x: 68
@@ -262,7 +262,7 @@ TextureImporter:
         width: 57
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -275,7 +275,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_8
+      name: Bat_dead_left_0
       rect:
         serializedVersion: 2
         x: 4
@@ -283,7 +283,7 @@ TextureImporter:
         width: 56
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -296,7 +296,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_9
+      name: Bat_dead_left_1
       rect:
         serializedVersion: 2
         x: 67
@@ -304,7 +304,7 @@ TextureImporter:
         width: 57
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -317,7 +317,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_10
+      name: Bat_dead_right_0
       rect:
         serializedVersion: 2
         x: 4
@@ -325,7 +325,7 @@ TextureImporter:
         width: 56
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -338,15 +338,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Allthebats_11
+      name: Bat_dead_right_1
       rect:
         serializedVersion: 2
         x: 68
-        y: 13
+        y: 14
         width: 57
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -369,18 +369,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Allthebats_0: 113331732
-      Allthebats_1: -1443967327
-      Allthebats_10: 932089751
-      Allthebats_11: 245708320
-      Allthebats_2: -1420172613
-      Allthebats_3: 2127545347
-      Allthebats_4: 1798066350
-      Allthebats_5: -1364353279
-      Allthebats_6: -1030381870
-      Allthebats_7: -984066694
-      Allthebats_8: 1868300594
-      Allthebats_9: 766650425
+      Bat_dead_left_0: 1868300594
+      Bat_dead_left_1: 766650425
+      Bat_dead_right_0: 932089751
+      Bat_dead_right_1: 245708320
+      Bat_normal_left_0: 113331732
+      Bat_normal_left_1: -1443967327
+      Bat_normal_right_0: -1420172613
+      Bat_normal_right_1: 2127545347
+      Bat_scared_left_0: 1798066350
+      Bat_scared_left_1: -1364353279
+      Bat_scared_right_0: -1030381870
+      Bat_scared_right_1: -984066694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
