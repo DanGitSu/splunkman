@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 060960dd69444864ab71837d4f0a3c80
+guid: 0ecc0daa5de0238408cfcf628143eb93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,13 +107,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Side_Facing_Splunker_0
+      name: Back_Facing_Splunker_0
       rect:
         serializedVersion: 2
         x: 25
-        y: 86
+        y: 85
         width: 14
-        height: 21
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efadcde8915dcfe4ba64b102f8c17171
-      internalID: 1974531447
+      spriteID: 370e583d844633c4aafdf45245301348
+      internalID: -1688086351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side_Facing_Splunker_1
+      name: Back_Facing_Splunker_1
       rect:
         serializedVersion: 2
         x: 25
@@ -142,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be92f6d341a74b64cb392ac7a4210b2f
-      internalID: -62256915
+      spriteID: e0b77b7a516f11e4f8ba8ac24663c122
+      internalID: -1254990132
       vertices: []
       indices: 
       edges: []
@@ -159,8 +159,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Side_Facing_Splunker_0: 1974531447
-      Side_Facing_Splunker_1: -62256915
+      Back_Facing_Splunker_0: -1688086351
+      Back_Facing_Splunker_1: -1254990132
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
