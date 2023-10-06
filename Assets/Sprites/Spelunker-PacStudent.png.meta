@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 060960dd69444864ab71837d4f0a3c80
+guid: fd805bc418415c24a9ab72d90b027595
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Side_Facing_Splunker_0
+      name: spelunker_down_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 150
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62568f9f6d58f2b4cbd2248c45a6760e
+      internalID: -301665728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunker_down_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 150
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc799a79baec9d1448378bad8e916ecd
+      internalID: -1058209493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunker_right_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112208fe3bf997144ae00ed4b7f73543
+      internalID: 45479281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunker_right_1
       rect:
         serializedVersion: 2
         x: 25
@@ -115,35 +178,98 @@ TextureImporter:
         width: 14
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efadcde8915dcfe4ba64b102f8c17171
-      internalID: 1974531447
+      spriteID: 2261e9339158d824bbd0ffe7555d598a
+      internalID: 278984473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side_Facing_Splunker_1
+      name: spelunker_up_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 21
+        x: 89
+        y: 85
         width: 14
-        height: 22
+        height: 23
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be92f6d341a74b64cb392ac7a4210b2f
-      internalID: -62256915
+      spriteID: ba21244d8a03c1c4491d0c6a09eaf4e6
+      internalID: -1639434093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunker_up_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3e1df6a2e8fc14e91eaa78b8f43106
+      internalID: 99267726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunker_left_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 22
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a50534fb99ebd14f9bd01b423592c41
+      internalID: -597453574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spelunker_left_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74083e6e2eee7dc4985daf2c4e6f99b1
+      internalID: 1560609624
       vertices: []
       indices: 
       edges: []
@@ -159,8 +285,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Side_Facing_Splunker_0: 1974531447
-      Side_Facing_Splunker_1: -62256915
+      spelunker_down_0: -301665728
+      spelunker_down_1: -1058209493
+      spelunker_left_0: -597453574
+      spelunker_left_1: 1560609624
+      spelunker_right_0: 45479281
+      spelunker_right_1: 278984473
+      spelunker_up_0: -1639434093
+      spelunker_up_1: 99267726
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
